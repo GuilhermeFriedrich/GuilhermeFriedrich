@@ -6,5 +6,5 @@
  dados e desenvolvimento web. Habilidade em resolução de problemas e aprendizagem rápida. Busco
  oportunidades para aplicar meu conhecimento em uma empresa  em crescimento.
 
-💼 ## Languages and Tools
+## 💼Languages and Tools
 
