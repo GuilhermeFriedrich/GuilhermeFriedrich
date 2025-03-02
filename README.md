@@ -1,6 +1,9 @@
-<div align="center">
-  <img height="200" src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  />
-</div>
+
+###
+
+<h1 align="center">Guilherme Friedrich</h1>
+
+###
 
 ###
 
@@ -9,12 +12,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">Software Developer</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
