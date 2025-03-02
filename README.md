@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm a software developer with a curiosity for learning and improving. I focus on writing clean and reusable code, I enjoy collaborating and sharing knowledge with my friends. Focused on my career in the banking sector, I also enjoy devising my own solutions for everyday challenges. In addition, I am committed to enhancing my skills on LeetCode to refine my problem-solving abilities.</p>
+<p align="left">I am a software developer with a strong curiosity to learn and grow. I focus on writing clean and efficient code, always looking for reusable solutions. I enjoy collaborating and sharing knowledge with my colleagues. While I am focused on my career in the software development sector, I also like creating my own solutions for everyday challenges. Additionally, I am committed to enhancing my skills on LeetCode to refine my problem-solving abilities and tackle complex challenges.</p>
 
 ###
 
